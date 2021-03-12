@@ -8,8 +8,8 @@ function Home() {
         <Image
           src="/d842c4007ec410315ea1770a70718c51.jpg"
           alt="pic of Arts and Crafts"
-          width={300}
-          height={300}
+          width={400}
+          height={400}
         />
         <h2>Welcome to Loc-Alley</h2>
         <style jsx>{`
